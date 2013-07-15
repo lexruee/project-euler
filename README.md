@@ -8,7 +8,7 @@ Currently solved problems:
 1. [Multiples of 3 and 5](https://github.com/lexruee/project-euler/blob/master/problem_1.py)
 2. [Even Fibonacci numbers](https://github.com/lexruee/project-euler/blob/master/problem_2.py)
 3. [Largest prime factor](https://github.com/lexruee/project-euler/blob/master/problem_3.py)
-
+4. [Largest palindrome product](https://github.com/lexruee/project-euler/blob/master/problem_4.py)
 5. [Sum square difference](https://github.com/lexruee/project-euler/blob/master/problem_5.py)
 
 7. [10001st prime](https://github.com/lexruee/project-euler/blob/master/problem_7.py)
