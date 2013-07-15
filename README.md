@@ -1,7 +1,7 @@
 project-euler
 =============
 
-Here are some solutions (written on python) to the problems of the project euler. If have more leisure time, I'll continue to solve more problems.
+Here are some solutions (written in python) to the problems of the project euler. If have more leisure time, I'll continue to solve more problems.
 
 Currently solved problems:
 
