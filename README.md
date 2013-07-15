@@ -20,7 +20,7 @@ Currently solved problems:
 13. [Large sum](https://github.com/lexruee/project-euler/blob/master/problem_13.py)
 14. [Longest Collatz sequence](https://github.com/lexruee/project-euler/blob/master/problem_14.py)
 
-16. Power digit sum](https://github.com/lexruee/project-euler/blob/master/problem_16.py)
+16. [Power digit sum](https://github.com/lexruee/project-euler/blob/master/problem_16.py)
 
 18. [Maximum path sum I](https://github.com/lexruee/project-euler/blob/master/problem_18.py)
 
