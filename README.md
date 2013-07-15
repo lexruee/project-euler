@@ -1,7 +1,7 @@
 project-euler
 =============
 
-Here are some solutions [written in python] to the problems of the project euler. If I have more leisure time, I'll continue to solve further problems.
+Here are some solutions [written in python] to the problems of the [project euler](http://projecteuler.net/). If I have more leisure time, I'll continue to solve further problems.
 
 Currently solved problems:
 
@@ -16,7 +16,7 @@ Currently solved problems:
 9. Special Pythagorean triplet: TODO
 10. [Summation of primes](https://github.com/lexruee/project-euler/blob/master/problem_10.py)
 11. [Largest product in a grid](https://github.com/lexruee/project-euler/blob/master/problem_11.py)
-12. Highly divisible triangular number: TODP
+12. Highly divisible triangular number: TODO
 13. [Large sum](https://github.com/lexruee/project-euler/blob/master/problem_13.py)
 14. [Longest Collatz sequence](https://github.com/lexruee/project-euler/blob/master/problem_14.py)
 15. Lattice paths: TODO
